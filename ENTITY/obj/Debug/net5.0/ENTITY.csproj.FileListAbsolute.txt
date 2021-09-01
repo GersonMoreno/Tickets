@@ -1,0 +1,12 @@
+C:\Users\gerso\Documents\Tickets\ENTITY\bin\Debug\net5.0\ENTITY.deps.json
+C:\Users\gerso\Documents\Tickets\ENTITY\bin\Debug\net5.0\ENTITY.dll
+C:\Users\gerso\Documents\Tickets\ENTITY\bin\Debug\net5.0\ref\ENTITY.dll
+C:\Users\gerso\Documents\Tickets\ENTITY\bin\Debug\net5.0\ENTITY.pdb
+C:\Users\gerso\Documents\Tickets\ENTITY\obj\Debug\net5.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerso\Documents\Tickets\ENTITY\obj\Debug\net5.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\gerso\Documents\Tickets\ENTITY\obj\Debug\net5.0\ENTITY.AssemblyInfo.cs
+C:\Users\gerso\Documents\Tickets\ENTITY\obj\Debug\net5.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\gerso\Documents\Tickets\ENTITY\obj\Debug\net5.0\ENTITY.dll
+C:\Users\gerso\Documents\Tickets\ENTITY\obj\Debug\net5.0\ref\ENTITY.dll
+C:\Users\gerso\Documents\Tickets\ENTITY\obj\Debug\net5.0\ENTITY.pdb
+C:\Users\gerso\Documents\Tickets\ENTITY\obj\Debug\net5.0\ENTITY.csproj.AssemblyReference.cache
